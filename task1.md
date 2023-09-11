@@ -7,4 +7,4 @@ HAL YANG TELAH SAYA PELAJARI
 
 KENDALA
 1. Sedikit bingung harus mulai belajar dari mana
-2. 
+2. Instruksi kurang jelas
